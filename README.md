@@ -12,5 +12,7 @@ Obviously, there are many other options but I tried to make it as simple and str
 If you have feedback, please do not hesitate to reach out :)
 
 
+![](/demoMap.png)
+
 
 Credit where credit is due - the postal codes for Germany were downloaded here: https://launix.de/launix/launix-gibt-plz-datenbank-frei/
